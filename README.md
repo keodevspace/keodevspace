@@ -1,4 +1,4 @@
-👋 Hi, I’m @keoxcoelho, welcome!<br>👀 I’m interested in games and comics.<br>🌱 I’m currently learning full stack dev.<br>📫 How to reach me: keoxcoelho@gmail.com
+👋 Hi, I’m @keoxcoelho, welcome!<br>👀 I’m interested in games and comics. And, I really like the accessibility and inclusion agendas, because I am disabled.<br>🌱 I’m currently learning full stack dev.<br>📫 How to reach me: keoxcoelho@gmail.com
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keocoelho/) 
