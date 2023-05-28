@@ -7,7 +7,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keoxcoelho&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed
-![](https://github-contributor-stats.vercel.app/api?username=keoxcoelho&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
