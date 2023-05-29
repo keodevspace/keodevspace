@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @keoxcoelho, welcome!<br>👀 I’m interested in games and comics.<br>🌱 I’m currently learning full stack dev.</h2>
+<h2 align="left">👋 Olá, eu sou o Keo Coelho, boas vindas ao meu GitHub!<br>🤓 Pronomes: Ele/Dele<br>🚀 Sou Analista de EX Pleno.<br> 👨‍💻 Estou estudando no SENAI/SESI SC a qualificação profissional em Dev Full Stack.</h2>
 
 ###
 
