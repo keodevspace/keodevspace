@@ -28,4 +28,18 @@
 
 ![Snake animation](https://github.com/EdvanLSBJunior/EdvanLSBJunior/blob/output/github-contribution-grid-snake.svg)
 
+<div>
+  <a href="https://github.com/keoxcoelho">
+  <p>    
+  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=keoxcoelho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </p>  
+<!--   <p>
+    <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvanLSBJunior&layout=compact&langs_count=7&theme=radical"/>
+  </p>   -->
+  <p>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=keoxcoelho&hide=html&theme=radical">
+  </p>
+</div>
+
+
 ###
