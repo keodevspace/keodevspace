@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá, boas vindas ao meu GitHub!<br>🤓 Pronomes: Ele/Dele<br>🚀 Sou Analista de EX Pleno na Gran Tecnologia.<br> 👨‍💻 Estou estudando no SENAI/SESI SC a qualificação profissional em Dev Full Stack.</h2>
+<h2 align="left">👋 Olá, boas vindas ao meu GitHub!<br>🤓 Pronomes: Ele/Dele<br>🚀 Sou Analista de EX Pleno na Gran Tecnologia<br> 👨‍💻 Estou estudando no SENAI/SESI SC a qualificação profissional em Dev Full Stack.</h2>
 
 ###
 
