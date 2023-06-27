@@ -1,6 +1,4 @@
-<h2 align="left">👋 Olá, boas vindas ao meu GitHub!<br>🤓 Pronomes: Ele/Dele<br>🚀 Sou Analista de EX Pleno na Gran Tecnologia<br> 👨‍💻 Estou estudando no SENAI/SESI SC, qualificação profissional em Dev Full Stack</h2>
-
-###
+<h2 align="left">👋 Hello, welcome to my GitHub!<br>🤓 Pronouns: He/Him<br>🚀 I'm a Senior EX Analyst at Gran Tecnologia<br>👨‍💻 Currently studying a professional qualification in Full Stack Development</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
