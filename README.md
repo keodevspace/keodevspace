@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello, welcome to my GitHub!<br>🚀 I'm a Senior EX Analyst at Gran Tecnologia<br>👨‍💻 Studying a professional qualification in Full Stack Development<br> 📬How to reach me: keodevspace@gamil.com</h2>
+<h2 align="left">👋 Hello, welcome to my GitHub!<br>🚀 I'm a Senior EX Analyst at Gran Tecnologia<br>👨‍💻 Studying a professional qualification in Full Stack Development<br> 📬 How to reach me: keodevspace@gmail.com</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
