@@ -1,3 +1,5 @@
+![Imgur](https://i.imgur.com/BpAKWMN.png)
+
 <h2 align="left">👋 Hello, welcome to my GitHub!<br>🚀 I'm a Senior EX Analyst at Gran Tecnologia<br>👨‍💻 Studying a professional qualification in Full Stack Development<br> 📬 How to reach me: keodevspace@gmail.com</h2>
 
 <div align="left">
@@ -25,7 +27,6 @@
 <br clear="both">
 
 ![Snake animation](https://github.com/EdvanLSBJunior/EdvanLSBJunior/blob/output/github-contribution-grid-snake.svg)
-![Alt Text](capa2.png)
 
 <div>
   <a href="https://github.com/keoxcoelho">
