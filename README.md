@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/EdvanLSBJunior/EdvanLSBJunior/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/keodevspace/keodevspace/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://github.com/keoxcoelho">
