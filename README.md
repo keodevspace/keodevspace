@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/BpAKWMN.png)
+![Capa LinkedIn](capa%20linkedin%20keo%20dev%20(1).png)
 
 <h2 align="left">👋 Hello, welcome to my GitHub!<br>🚀 I'm a Senior EX Analyst at Gran Tecnologia<br>👨‍💻 Studying a professional qualification in Development<br> 📬 How to reach me: keodevspace@gmail.com</h2>
 
