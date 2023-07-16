@@ -20,6 +20,9 @@ jobs:
       - name: Install dependencies
         run: |
           pip install pygame
+
+      - name: Run Snake Game
+        run: |
           echo "import pygame
 import time
 import random
@@ -160,5 +163,4 @@ while not game_over:
 # Exit message
 pygame.quit()
 quit()"
-        ```
-
+          | python"
