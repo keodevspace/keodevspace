@@ -23,9 +23,7 @@
 
 ###
 
-<br clear="both">
-
-![snake gif](https://github.com/keodevspacev/keodevspace/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/keodevspace/keodevspace/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://github.com/keodevspace">
