@@ -1,6 +1,6 @@
 ![Capa LinkedIn](capaKeoDev.png)
 
-<h2 align="left">👋 Hello, welcome to my GitHub!<br>🚀 SR EX Analyst at Gran Tecnologia<br>👨‍💻 Web and Mobile Dev <br> 📬 How to reach me: keodevspace@gmail.com</h2>
+<h2 align="left">👋 Hello, welcome to my GitHub!<br>🚀 MD EX Analyst at Gran Tecnologia<br>👨‍💻 Web and Mobile Dev <br> 📬 How to reach me: keodevspace@gmail.com</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
