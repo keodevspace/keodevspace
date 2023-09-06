@@ -24,12 +24,3 @@
 </div>
 
 ###
-
-<div>
-  <a href="https://github.com/keodevspace">
-  <p>
-    <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvanLSBJunior&layout=compact&langs_count=7&theme=radical"/>
-  </p>   
-</div>
-
-###
