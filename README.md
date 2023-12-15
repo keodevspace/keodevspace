@@ -1,6 +1,6 @@
 ![Capa](https://media.licdn.com/dms/image/D4D16AQFDQ9feeBWfPQ/profile-displaybackgroundimage-shrink_350_1400/0/1694005612961?e=1699488000&v=beta&t=pAIzz8s4-E42WBxFg4mlggZzGZsPpAhKIKKlnr0zNy8)
 
-<h2 align="left">👋 Hello, welcome to my GitHub!<br> 👨‍💻 I'm Keo, brazilian Front-End Developer <br> 📬 How to reach me: keodevspace@gmail.com</h2>
+<h2 align="left">👋 Hello, welcome to my GitHub!<br> 👨‍💻 I'm Keo, brazilian Software Developer <br> 📬 How to reach me: keodevspace@gmail.com</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
