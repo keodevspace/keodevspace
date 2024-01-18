@@ -8,4 +8,6 @@
   <a href="https://keodevspace.vercel.app/englishIndex.html" target="_blank"><img alt='WEB FOLIO' src='https://img.shields.io/badge/WEB_FOLIO-100000?style=for-the-badge&logo=WEB FOLIO&logoColor=B03A1D&labelColor=B03A1D&color=B03A1D'/></a>
 </div>
 
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+
 ###
