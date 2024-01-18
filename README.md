@@ -10,6 +10,6 @@
 
 ###
 
-![Snake animation](https://github.com/keodevspace/keodevspace/blob/output/github-contribution-grid-snake.svg)
+![Capa Keo](https://github.com/keodevspace/keodevspace/main/capaKeo.png)
 
 ###
