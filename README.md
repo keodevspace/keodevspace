@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👋 Hello, welcome to my GitHub!<br> 👨‍💻 I'm Keo, a Brazilian Software Developer <br> 📬 Visit my portfolio: <a href="https://keodevspace.vercel.app/" target="_blank">https://keodevspace.vercel.app/</a></h2>
+<h2 align="left">👋 Hello, welcome to my GitHub!<br> 👨‍💻 I'm Keo, a brazilian Software Developer <br> 📬 Visit my portfolio: <a href="https://keodevspace.vercel.app/" target="_blank">https://keodevspace.vercel.app/</a></h2>
 
 ###
 
