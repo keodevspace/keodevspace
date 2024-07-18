@@ -5,7 +5,7 @@
 <h2 align="left">
   
 >  :relaxed: Hello, welcome to my GitHub!<br>
-> I'm Keo, a brazilian .NET FullStack Developer <br>
+> I'm Keo, a brazilian .NET Developer <br>
 > I’m currently working on [TOTVS](https://www.totvs.com/) <br>
 > Visit my [portfolio](https://keodevspace.vercel.app/)
   
