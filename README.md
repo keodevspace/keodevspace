@@ -5,7 +5,7 @@
 <h2 align="left">
   
 >  :relaxed: Hello, welcome to my GitHub!<br>
-> I'm Keo, a brazilian .NET Developer JR <br>
+> I'm Keo, a .NET Developer<br>
 > I’m currently working on [Supplier](https://www.linkedin.com/company/supplierpay/mycompany/verification/) <br>
 > Visit my [portfolio](https://keodevspace.vercel.app/)
   
