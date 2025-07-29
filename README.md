@@ -1,3 +1,3 @@
-![Capa Keo](https://github.com/keodevspace/keodevspace/blob/main/capaKeo.png)
+![Capa Keo](https://github.com/keodevspace/keodevspace/blob/main/coverKeo.png)
 
 ###
